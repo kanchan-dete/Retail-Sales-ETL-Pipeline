@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,price_per_unit,order_date
+5001,Amit,Server Rack,2,15000.0,2026-06-01
+5002,,SSD Drive,5,4500.0,2026-06-01
+5003,Sneha,,1,2500.0,Bad_Date
+5004,Rahul,Router,3,3000.0,2026-06-02
+5005,Pooja,Switch,10,800.0,2026-06-03
